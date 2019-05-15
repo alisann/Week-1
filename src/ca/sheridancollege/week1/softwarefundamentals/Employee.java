@@ -5,7 +5,8 @@
  */
 
 /*
- * FIRST COMMENT
+ * FIRST COMMiT
+ * 2nd CoMMiT
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
